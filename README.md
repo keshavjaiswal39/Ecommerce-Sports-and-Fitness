@@ -2,7 +2,7 @@
 
 > Ecommerce website built with the MERN stack with React Context API for state management, pure CSS for style
 
-## Demo: httpshttps://shopkaro-ecommerce.herokuapp.com/
+## Demo: https://shopkaro-ecommerce.herokuapp.com/
 
 ## Install dependencies for server 
 ### `npm install`
